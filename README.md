@@ -6,7 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🔭 I’m currently working on own projects
+
+- 🌱 I’m currently learning React
+
+- 👯 I’m looking to collaborate on interesting projects
+
+- 💬 Ask me about website creation
 
 - 📫 How to reach me **rafaelmammadov10@gmail.com**
 
