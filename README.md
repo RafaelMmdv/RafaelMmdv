@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Spring Boot**
+
+- 📝 I regularly write articles on [https://medium.com/@rafaelmammadov](https://medium.com/@rafaelmammadov)
+
+- 💬 Ask me about **backend development**
 
 - 📫 How to reach me **rafaelmammadov10@gmail.com**
 
@@ -25,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmmdv&show_icons=true&locale=en" alt="rafaelmmdv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelmmdv&" alt="rafaelmmdv" /></p>
-
